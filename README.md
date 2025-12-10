@@ -39,8 +39,8 @@
   <h3>📊 Minha Atividade</h3>
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mat-dgruber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-dgruber&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mat-dgruber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-dgruber&layout=compact&theme=dracula&hide_border=true"/>
   </div>
 
   <br />
@@ -51,7 +51,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mat-dgruber/mat-dgruber/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 <br /><br />
 
 <div align="center">

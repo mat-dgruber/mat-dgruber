@@ -38,10 +38,10 @@
 <div align="center">
   <h3>📊 Minha Atividade</h3>
   
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mat-dgruber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-dgruber&layout=compact&theme=dracula&hide_border=true"/>
-  </div>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=mat-dgruber&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-dgruber&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  </p>
 
   <br />
 

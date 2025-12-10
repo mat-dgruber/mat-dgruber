@@ -36,24 +36,23 @@
 <br /><br />
 
 <div align="center">
-  <h3>📊 Minha Atividade</h3>
-  
- <!-- <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mat-dgruber&show_icons=true&theme=dracula&hide_border=true&t=1" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-dgruber&layout=compact&theme=dracula&hide_border=true&t=1" height="150" alt="languages graph" />
-  </p>
-
-  <br /> -->
-
+  <h3>🧩 Minha Atividade</h3>
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mat-dgruber/mat-dgruber/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mat-dgruber/mat-dgruber/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mat-dgruber/mat-dgruber/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/mat-dgruber/mat-dgruber/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<br /><br />
+
+<br><br>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIwYnN6Y2Z4Y3l5Y2Z4Y3l5Y2Z4Y3l5Y2Z4Y3l5Y2Z4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpSf6D96qGgN0LCo5i/giphy.gif" width="50px">
+  <br>
+  <sub><i>"Transformando café em código desde 2024"</i></sub>
+  <br><br>
+  
   <a href="https://instagram.com/_iam_mdg_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -61,4 +60,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-<br />
+<br>

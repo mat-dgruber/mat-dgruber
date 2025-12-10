@@ -50,7 +50,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIwYnN6Y2Z4Y3l5Y2Z4Y3l5Y2Z4Y3l5Y2Z4Y3l5Y2Z4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpSf6D96qGgN0LCo5i/giphy.gif" width="50px">
   <br>
-  <sub><i>"Transformando café em código desde 2024"</i></sub>
+  <sub><i>"Transformando soluções em código desde 2025"</i></sub>
   <br><br>
   
   <a href="https://instagram.com/_iam_mdg_" target="_blank">

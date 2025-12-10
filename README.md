@@ -39,17 +39,9 @@
   <h3>📊 Minha Atividade</h3>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mat-dgruber&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-dgruber&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mat-dgruber&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=0" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-dgruber&layout=compact&theme=dracula&hide_border=true&cache_seconds=0" height="150" alt="languages graph" />
   </p>
-
-  <br />
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mat-dgruber/mat-dgruber/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mat-dgruber/mat-dgruber/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mat-dgruber/mat-dgruber/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 <br /><br />
 

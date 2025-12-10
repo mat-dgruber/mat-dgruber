@@ -38,12 +38,12 @@
 <div align="center">
   <h3>📊 Minha Atividade</h3>
   
-  <p>
+ <!-- <p>
     <img src="https://github-readme-stats.vercel.app/api?username=mat-dgruber&show_icons=true&theme=dracula&hide_border=true&t=1" height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-dgruber&layout=compact&theme=dracula&hide_border=true&t=1" height="150" alt="languages graph" />
   </p>
 
-  <br />
+  <br /> -->
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mat-dgruber/mat-dgruber/output/github-contribution-grid-snake-dark.svg">

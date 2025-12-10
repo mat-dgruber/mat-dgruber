@@ -39,8 +39,8 @@
   <h3>📊 Minha Atividade</h3>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mat-dgruber&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=0" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-dgruber&layout=compact&theme=dracula&hide_border=true&cache_seconds=0" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mat-dgruber&show_icons=true&theme=dracula&hide_border=true&t=1" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-dgruber&layout=compact&theme=dracula&hide_border=true&t=1" height="150" alt="languages graph" />
   </p>
 
   <br />

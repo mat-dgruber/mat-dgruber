@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Matheus%20Diniz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
   
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Engenheiro+de+Software+Pleno;Especialista+em+IA+Aplicada;Desenvolvedor+Full+Stack;Criador+do+Harpia+%26+Contribuidor+OpenClaude" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Engenheiro+de+Software+Pleno;P%C3%B3s-Graduado+em+IA+Aplicada;Desenvolvedor+Full+Stack;Criador+do+Harpia+%26+Contribuidor+OpenClaude" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -28,8 +28,8 @@
 ## 👨‍💻 Sobre Mim
 
 <blockquote align="center">
-  <h3>⚡ Engenheiro de Software Pleno & Especialista em Engenharia de IA</h3>
-  <p>Focado em Compiladores, Desenvolvimento Full Stack e Soluções Enterprise</p>
+  <h3>⚡ Engenheiro de Software Pleno</h3>
+  <p>Desenvolvimento Full Stack, IA Aplicada & Engenharia de Compiladores</p>
 </blockquote>
 
 Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a equipe de engenharia da **Casa Publicadora Brasileira**. Possuo graduação em **Análise e Desenvolvimento de Sistemas** (Universidade Cruzeiro do Sul) e Pós-Graduação em **Engenharia de IA Aplicada** (UNIPDS/Anhanguera). Atuo no desenvolvimento Full Stack, modernização de sistemas legados enterprise, arquitetura de software e criação de ferramentas autônomas baseadas em IA.
@@ -94,11 +94,11 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
 
 | Domínio | Proficiência | Detalhes Técnicos |
 | :--- | :---: | :--- |
-| **Frameworks de Agentes & Tool Use** | `Especialista` | Chamada de ferramentas, integração com protocolo MCP, automação CLI, orquestração de subagentes |
-| **Integração de Provedores de LLM** | `Especialista` | OpenAI, Gemini 1.5/2.0, DeepSeek, Claude, Ollama, proxies compatíveis com OpenAI |
-| **Engenharia de IA Aplicada** | `Especialista` | Arquitetura de soluções com IA, RAG, técnicas de otimização de contextos e prompts estruturados |
-| **Engenharia de Prompt & Fluxos** | `Especialista` | Chain-of-Thought, padrões de raciocínio ReAct, validação de dados em esquema JSON |
-| **Implantação de Modelos Locais** | `Avançado` | Ollama, otimização de execução local, utilização de modelos quantizados GGUF |
+| **Frameworks de Agentes & Tool Use** | `Avançado` | Chamada de ferramentas, integração com protocolo MCP, automação CLI, orquestração de subagentes |
+| **Integração de Provedores de LLM** | `Avançado` | OpenAI, Gemini 1.5/2.0, DeepSeek, Claude, Ollama, proxies compatíveis com OpenAI |
+| **Engenharia de IA Aplicada** | `Proficiente` | Arquitetura de soluções com IA, RAG, técnicas de otimização de contextos e prompts estruturados |
+| **Engenharia de Prompt & Fluxos** | `Proficiente` | Chain-of-Thought, padrões de raciocínio ReAct, validação de dados em esquema JSON |
+| **Implantação de Modelos Locais** | `Prático` | Ollama, otimização de execução local, utilização de modelos quantizados GGUF |
 
 ---
 

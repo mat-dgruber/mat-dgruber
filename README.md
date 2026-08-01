@@ -234,22 +234,7 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
 ## 📊 Métricas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mat-dgruber&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-dgruber&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Linguagens Mais Utilizadas" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mat-dgruber&theme=tokyonight&hide_border=true" width="97%" alt="Sequência de Contribuições" />
-</div>
-
----
-
-## 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mat-dgruber&theme=tokyonight&column=6&margin-w=15&margin-h=15" width="100%" alt="Troféus do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mat-dgruber&theme=tokyonight&hide_border=true" width="100%" alt="Sequência de Contribuições" />
 </div>
 
 ---

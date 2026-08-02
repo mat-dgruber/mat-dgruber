@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/Portf%C3%B3lio-GitHub-0F62FE?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"></a>
+    <a href="https://monportfolio-dgruber.web.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Online-0F62FE?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio"></a>
     <a href="mailto:matheus.gruber123@gmail.com"><img src="https://img.shields.io/badge/E--mail-Entre%20em%20Contato-003366?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
     <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/GitHub-Seguir-1E40AF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
@@ -281,7 +281,7 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
 <div align="center">
   <a href="mailto:matheus.gruber123@gmail.com"><img src="https://img.shields.io/badge/Gmail-0070F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/GitHub-1E40AF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F62FE?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://monportfolio-dgruber.web.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F62FE?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio"/></a>
 </div>
 
 ---

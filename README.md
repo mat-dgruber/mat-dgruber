@@ -21,6 +21,25 @@
     <img src="https://img.shields.io/github/followers/mat-dgruber?style=flat-square&color=0366d6&label=SEGUIDORES" alt="Seguidores" />
     <img src="https://img.shields.io/github/stars/mat-dgruber?style=flat-square&color=1d4ed8&label=TOTAL+DE+ESTRELAS" alt="Estrelas" />
   </p>
+
+  <br />
+
+  <h3><code>matheus@github ~ $ ./contributions.sh</code></h3>
+  <img src="./contrib-heatmap.svg" width="860" alt="Heatmap de Contribuições" />
+
+  <br />
+
+  <h3><code>matheus@github ~ $ neofetch --user mat-dgruber</code></h3>
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="./matheus-ascii.svg" width="370" alt="ASCII Art Matheus" />
+      </td>
+      <td valign="top">
+        <img src="./info-card.svg" width="490" alt="Info Card" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---

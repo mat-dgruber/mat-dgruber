@@ -22,13 +22,6 @@
     <img src="https://img.shields.io/github/stars/mat-dgruber?style=flat-square&color=1d4ed8&label=TOTAL+DE+ESTRELAS" alt="Estrelas" />
   </p>
 
-  <br />
-
-  <h3><code>matheus@github ~ $ ./jet-heatmap.sh</code></h3>
-  <img src="dist/github-jet.svg" width="100%" alt="GitHub Jet Heatmap Animation" />
-
-<br /><br />
-
   <h3><code>matheus@github ~ $ neofetch --user mat-dgruber</code></h3>
   <table>
     <tr>
@@ -41,6 +34,12 @@
     </tr>
   </table>
 </div>
+  <br />
+
+  <h3><code>matheus@github ~ $ ./jet-heatmap.sh</code></h3>
+  <img src="dist/github-jet.svg" width="100%" alt="GitHub Jet Heatmap Animation" />
+
+<br /><br />
 
 ---
 
@@ -127,7 +126,6 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
 
   <h3><code>matheus@github ~ $ ./contributions.sh</code></h3>
   <img src="./contrib-heatmap.svg" width="860" alt="Heatmap de Contribuições" />
-
 
 ## 🚀 Projetos em Destaque
 

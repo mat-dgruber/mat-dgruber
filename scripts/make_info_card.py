@@ -38,13 +38,7 @@ def generate_info_card_svg(output_path: str = "info-card.svg") -> str:
         '    .key { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 12px; font-weight: 600; fill: #58a6ff; }',
         '    .val { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace, "Apple Color Emoji", "Segoe UI Emoji"; font-size: 12px; fill: #c9d1d9; }',
         '    .quote-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 11px; font-style: italic; fill: #8b949e; text-anchor: middle; }',
-        '    .animated-row { opacity: 0; animation: fadeIn 0.4s ease-out forwards; }',
     ]
-
-    total_items = len(top_fields) + len(bottom_fields) + 3
-    for i in range(1, total_items + 1):
-        d = round(0.08 * i, 2)
-        svg_parts.append(f'    .delay-{i} {{ animation-delay: {d}s; }}')
 
     svg_parts.extend([
         '  </style>',
@@ -63,38 +57,34 @@ def generate_info_card_svg(output_path: str = "info-card.svg") -> str:
     ])
 
     current_y = 58
-    row_idx = 1
 
     for k, v in top_fields:
         esc_k = html.escape(k)
         esc_v = html.escape(v)
-        svg_parts.append(f'    <g class="animated-row delay-{row_idx}" transform="translate(0, {current_y})">')
+        svg_parts.append(f'    <g transform="translate(0, {current_y})">')
         svg_parts.append(f'      <text x="0" y="0" class="key">{esc_k}:</text>')
         svg_parts.append(f'      <text x="120" y="0" class="val">{esc_v}</text>')
         svg_parts.append('    </g>')
         current_y += 22
-        row_idx += 1
 
     # Separator Line
     line_y = current_y - 8
-    svg_parts.append(f'    <line x1="0" y1="{line_y}" x2="442" y2="{line_y}" stroke="#30363d" stroke-width="1" class="animated-row delay-{row_idx}" />')
+    svg_parts.append(f'    <line x1="0" y1="{line_y}" x2="442" y2="{line_y}" stroke="#30363d" stroke-width="1" />')
     current_y += 14
-    row_idx += 1
 
     for k, v in bottom_fields:
         esc_k = html.escape(k)
         esc_v = html.escape(v)
-        svg_parts.append(f'    <g class="animated-row delay-{row_idx}" transform="translate(0, {current_y})">')
+        svg_parts.append(f'    <g transform="translate(0, {current_y})">')
         svg_parts.append(f'      <text x="0" y="0" class="key">{esc_k}:</text>')
         svg_parts.append(f'      <text x="120" y="0" class="val">{esc_v}</text>')
         svg_parts.append('    </g>')
         current_y += 22
-        row_idx += 1
 
     # Quote
     esc_quote = html.escape(quote)
     quote_y = current_y + 16
-    svg_parts.append(f'    <g class="animated-row delay-{row_idx}" transform="translate(221, {quote_y})">')
+    svg_parts.append(f'    <g transform="translate(221, {quote_y})">')
     svg_parts.append(f'      <text x="0" y="0" class="quote-text">{esc_quote}</text>')
     svg_parts.append('    </g>')
 

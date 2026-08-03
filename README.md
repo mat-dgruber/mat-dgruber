@@ -260,29 +260,6 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
   <img src="https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-ADS%20Cruzeiro%20do%20Sul-0072F5?style=for-the-badge&logo=education&logoColor=white" alt="Graduação ADS"/>
 </div>
 
----
-
-## 📊 Métricas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mat-dgruber&theme=tokyonight&hide_border=true" width="100%" alt="Sequência de Contribuições" />
-</div>
-
----
-
-## 📈 Gráfico de Contribuição
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mat-dgruber&theme=react-dark&hide_border=true&area=true&color=38bdf8&line=0070f3" width="100%" alt="Gráfico de Atividades" />
-</div>
-
----
-
-## 🐍 Gráfico da Cobrinha
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mat-dgruber/mat-dgruber/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação da Cobrinha" />
-</div>
 
 ---
 

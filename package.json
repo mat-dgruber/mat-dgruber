@@ -1,0 +1,8 @@
+{
+  "name": "mat-dgruber",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate:jet": "node generate.mjs"
+  }
+}

@@ -128,7 +128,6 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
   <h3><code>matheus@github ~ $ ./contributions.sh</code></h3>
   <img src="./contrib-heatmap.svg" width="860" alt="Heatmap de Contribuições" />
 
-<br /><br />
 
 ## 🚀 Projetos em Destaque
 

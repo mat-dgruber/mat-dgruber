@@ -36,7 +36,7 @@
 </div>
   <br />
 
-  <h3><code>matheus@github ~ $ ./jet-heatmap.sh</code></h3>
+  <!-- <h3><code>matheus@github ~ $ ./jet-heatmap.sh</code></h3> -->
   <img src="dist/github-jet.svg" width="100%" alt="GitHub Jet Heatmap Animation" />
 
 <br /><br />

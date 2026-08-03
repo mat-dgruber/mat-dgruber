@@ -36,11 +36,6 @@
 </div>
   <br />
 
-  <!-- <h3><code>matheus@github ~ $ ./jet-heatmap.sh</code></h3> -->
-  <img src="dist/github-jet.svg" width="100%" alt="GitHub Jet Heatmap Animation" />
-
-<br /><br />
-
 ---
 
 ## 👨‍💻 Sobre Mim
@@ -60,6 +55,11 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
 **🎯 Aberto a:** Desafios em Engenharia de Software, Arquitetura de Aplicações, Engenharia de IA Aplicada e Colaborações em Projetos Open-Source.
 
 ---
+
+ <!-- <h3><code>matheus@github ~ $ ./jet-heatmap.sh</code></h3> -->
+  <img src="dist/github-jet.svg" width="100%" alt="GitHub Jet Heatmap Animation" />
+
+<br /><br />
 
 ## 🛠️ Tecnologias & Ferramentas
 

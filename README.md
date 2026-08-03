@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/github/stars/mat-dgruber?style=flat-square&color=1d4ed8&label=TOTAL+DE+ESTRELAS" alt="Estrelas" />
   </p>
 
-  <h3><code>matheus@github ~ $ neofetch --user mat-dgruber</code></h3>
+  <!-- <h3><code>matheus@github ~ $ neofetch --user mat-dgruber</code></h3> -->
   <table>
     <tr>
       <td valign="top">

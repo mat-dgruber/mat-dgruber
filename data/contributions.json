@@ -1,12 +1,7 @@
 {
   "username": "mat-dgruber",
-  "total_contributions": 4293,
+  "total_contributions": 4295,
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 40,
-      "level": 2
-    },
     {
       "date": "2025-08-31",
       "count": 24,
@@ -268,9 +263,9 @@
       "level": 1
     },
     {
-      "date": "2025-08-25",
-      "count": 58,
-      "level": 3
+      "date": "2026-08-30",
+      "count": 1,
+      "level": 1
     },
     {
       "date": "2025-09-01",
@@ -533,11 +528,6 @@
       "level": 4
     },
     {
-      "date": "2025-08-26",
-      "count": 16,
-      "level": 1
-    },
-    {
       "date": "2025-09-02",
       "count": 0,
       "level": 0
@@ -796,11 +786,6 @@
       "date": "2026-08-25",
       "count": 51,
       "level": 3
-    },
-    {
-      "date": "2025-08-27",
-      "count": 12,
-      "level": 1
     },
     {
       "date": "2025-09-03",
@@ -1063,11 +1048,6 @@
       "level": 1
     },
     {
-      "date": "2025-08-28",
-      "count": 23,
-      "level": 2
-    },
-    {
       "date": "2025-09-04",
       "count": 11,
       "level": 1
@@ -1325,11 +1305,6 @@
     {
       "date": "2026-08-27",
       "count": 21,
-      "level": 1
-    },
-    {
-      "date": "2025-08-29",
-      "count": 1,
       "level": 1
     },
     {
@@ -1593,11 +1568,6 @@
       "level": 2
     },
     {
-      "date": "2025-08-30",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-09-06",
       "count": 1,
       "level": 1
@@ -1854,7 +1824,7 @@
     },
     {
       "date": "2026-08-29",
-      "count": 1,
+      "count": 2,
       "level": 1
     }
   ]

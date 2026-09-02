@@ -82,7 +82,7 @@
   <!-- Header Title -->
   <text x="430" y="20" class="header-title">matheus@github ~ ./contributions.sh --year 2025-2026</text>
   <!-- Stat Text -->
-  <text x="24" y="48" class="stat-text">4,229 contribuições no último ano</text>
+  <text x="24" y="48" class="stat-text">4,341 contribuições no último ano</text>
   <!-- Legend -->
   <g transform="translate(680, 38)">
     <text x="0" y="9" class="legend-text">Menos</text>
@@ -188,7 +188,7 @@
       <rect class="day-box d-6" x="96" y="112" width="10" height="10" rx="2" fill="#0e4429">
         <title>2025-09-24: 7 contribuições</title>
       </rect>
-      <rect class="day-box d-7" x="96" y="126" width="10" height="10" rx="2" fill="#006d32">
+      <rect class="day-box d-7" x="96" y="126" width="10" height="10" rx="2" fill="#26a641">
         <title>2025-09-25: 40 contribuições</title>
       </rect>
       <rect class="day-box d-8" x="96" y="140" width="10" height="10" rx="2" fill="#0e4429">
@@ -326,7 +326,7 @@
       <rect class="day-box d-10" x="194" y="70" width="10" height="10" rx="2" fill="#0e4429">
         <title>2025-11-09: 11 contribuições</title>
       </rect>
-      <rect class="day-box d-11" x="194" y="84" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-11" x="194" y="84" width="10" height="10" rx="2" fill="#006d32">
         <title>2025-11-10: 20 contribuições</title>
       </rect>
       <rect class="day-box d-12" x="194" y="98" width="10" height="10" rx="2" fill="#0e4429">
@@ -416,7 +416,7 @@
       <rect class="day-box d-16" x="250" y="98" width="10" height="10" rx="2" fill="#006d32">
         <title>2025-12-09: 31 contribuições</title>
       </rect>
-      <rect class="day-box d-17" x="250" y="112" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-17" x="250" y="112" width="10" height="10" rx="2" fill="#006d32">
         <title>2025-12-10: 21 contribuições</title>
       </rect>
       <rect class="day-box d-18" x="250" y="126" width="10" height="10" rx="2" fill="#0e4429">
@@ -671,7 +671,7 @@
       <rect class="day-box d-29" x="418" y="112" width="10" height="10" rx="2" fill="#0e4429">
         <title>2026-03-04: 9 contribuições</title>
       </rect>
-      <rect class="day-box d-30" x="418" y="126" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-30" x="418" y="126" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-03-05: 22 contribuições</title>
       </rect>
       <rect class="day-box d-31" x="418" y="140" width="10" height="10" rx="2" fill="#0e4429">
@@ -683,7 +683,7 @@
       <rect class="day-box d-27" x="432" y="70" width="10" height="10" rx="2" fill="#0e4429">
         <title>2026-03-08: 19 contribuições</title>
       </rect>
-      <rect class="day-box d-28" x="432" y="84" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-28" x="432" y="84" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-03-09: 21 contribuições</title>
       </rect>
       <rect class="day-box d-29" x="432" y="98" width="10" height="10" rx="2" fill="#006d32">
@@ -692,7 +692,7 @@
       <rect class="day-box d-30" x="432" y="112" width="10" height="10" rx="2" fill="#0e4429">
         <title>2026-03-11: 16 contribuições</title>
       </rect>
-      <rect class="day-box d-31" x="432" y="126" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-31" x="432" y="126" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-03-12: 22 contribuições</title>
       </rect>
       <rect class="day-box d-32" x="432" y="140" width="10" height="10" rx="2" fill="#0e4429">
@@ -716,7 +716,7 @@
       <rect class="day-box d-32" x="446" y="126" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-03-19: 23 contribuições</title>
       </rect>
-      <rect class="day-box d-33" x="446" y="140" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-33" x="446" y="140" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-03-20: 20 contribuições</title>
       </rect>
       <rect class="day-box d-34" x="446" y="154" width="10" height="10" rx="2" fill="#161b22">
@@ -725,7 +725,7 @@
       <rect class="day-box d-29" x="460" y="70" width="10" height="10" rx="2" fill="#161b22">
         <title>2026-03-22: 0 contribuições</title>
       </rect>
-      <rect class="day-box d-30" x="460" y="84" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-30" x="460" y="84" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-03-23: 20 contribuições</title>
       </rect>
       <rect class="day-box d-31" x="460" y="98" width="10" height="10" rx="2" fill="#0e4429">
@@ -749,7 +749,7 @@
       <rect class="day-box d-31" x="474" y="84" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-03-30: 27 contribuições</title>
       </rect>
-      <rect class="day-box d-32" x="474" y="98" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-32" x="474" y="98" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-03-31: 22 contribuições</title>
       </rect>
       <rect class="day-box d-33" x="474" y="112" width="10" height="10" rx="2" fill="#161b22">
@@ -863,13 +863,13 @@
       <rect class="day-box d-39" x="544" y="126" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-05-07: 26 contribuições</title>
       </rect>
-      <rect class="day-box d-40" x="544" y="140" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-40" x="544" y="140" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-05-08: 22 contribuições</title>
       </rect>
       <rect class="day-box d-41" x="544" y="154" width="10" height="10" rx="2" fill="#161b22">
         <title>2026-05-09: 0 contribuições</title>
       </rect>
-      <rect class="day-box d-36" x="558" y="70" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-36" x="558" y="70" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-05-10: 20 contribuições</title>
       </rect>
       <rect class="day-box d-37" x="558" y="84" width="10" height="10" rx="2" fill="#26a641">
@@ -893,7 +893,7 @@
       <rect class="day-box d-37" x="572" y="70" width="10" height="10" rx="2" fill="#161b22">
         <title>2026-05-17: 0 contribuições</title>
       </rect>
-      <rect class="day-box d-38" x="572" y="84" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-38" x="572" y="84" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-05-18: 21 contribuições</title>
       </rect>
       <rect class="day-box d-39" x="572" y="98" width="10" height="10" rx="2" fill="#0e4429">
@@ -938,7 +938,7 @@
       <rect class="day-box d-40" x="600" y="84" width="10" height="10" rx="2" fill="#0e4429">
         <title>2026-06-01: 8 contribuições</title>
       </rect>
-      <rect class="day-box d-41" x="600" y="98" width="10" height="10" rx="2" fill="#0e4429">
+      <rect class="day-box d-41" x="600" y="98" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-06-02: 22 contribuições</title>
       </rect>
       <rect class="day-box d-42" x="600" y="112" width="10" height="10" rx="2" fill="#0e4429">
@@ -1133,7 +1133,7 @@
       <rect class="day-box d-51" x="726" y="112" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-08-05: 31 contribuições</title>
       </rect>
-      <rect class="day-box d-52" x="726" y="126" width="10" height="10" rx="2" fill="#26a641">
+      <rect class="day-box d-52" x="726" y="126" width="10" height="10" rx="2" fill="#39d353">
         <title>2026-08-06: 68 contribuições</title>
       </rect>
       <rect class="day-box d-53" x="726" y="140" width="10" height="10" rx="2" fill="#006d32">
@@ -1178,7 +1178,7 @@
       <rect class="day-box d-54" x="754" y="126" width="10" height="10" rx="2" fill="#006d32">
         <title>2026-08-20: 32 contribuições</title>
       </rect>
-      <rect class="day-box d-55" x="754" y="140" width="10" height="10" rx="2" fill="#006d32">
+      <rect class="day-box d-55" x="754" y="140" width="10" height="10" rx="2" fill="#26a641">
         <title>2026-08-21: 40 contribuições</title>
       </rect>
       <rect class="day-box d-56" x="754" y="154" width="10" height="10" rx="2" fill="#0e4429">
@@ -1196,11 +1196,11 @@
       <rect class="day-box d-54" x="768" y="112" width="10" height="10" rx="2" fill="#0e4429">
         <title>2026-08-26: 18 contribuições</title>
       </rect>
-      <rect class="day-box d-55" x="768" y="126" width="10" height="10" rx="2" fill="#0e4429">
-        <title>2026-08-27: 22 contribuições</title>
+      <rect class="day-box d-55" x="768" y="126" width="10" height="10" rx="2" fill="#39d353">
+        <title>2026-08-27: 78 contribuições</title>
       </rect>
-      <rect class="day-box d-56" x="768" y="140" width="10" height="10" rx="2" fill="#0e4429">
-        <title>2026-08-28: 22 contribuições</title>
+      <rect class="day-box d-56" x="768" y="140" width="10" height="10" rx="2" fill="#26a641">
+        <title>2026-08-28: 52 contribuições</title>
       </rect>
       <rect class="day-box d-57" x="768" y="154" width="10" height="10" rx="2" fill="#0e4429">
         <title>2026-08-29: 2 contribuições</title>
@@ -1208,11 +1208,14 @@
       <rect class="day-box d-52" x="782" y="70" width="10" height="10" rx="2" fill="#0e4429">
         <title>2026-08-30: 2 contribuições</title>
       </rect>
-      <rect class="day-box d-53" x="782" y="84" width="10" height="10" rx="2" fill="#26a641">
+      <rect class="day-box d-53" x="782" y="84" width="10" height="10" rx="2" fill="#39d353">
         <title>2026-08-31: 67 contribuições</title>
       </rect>
-      <rect class="day-box d-54" x="782" y="98" width="10" height="10" rx="2" fill="#0e4429">
-        <title>2026-09-01: 1 contribuições</title>
+      <rect class="day-box d-54" x="782" y="98" width="10" height="10" rx="2" fill="#006d32">
+        <title>2026-09-01: 26 contribuições</title>
+      </rect>
+      <rect class="day-box d-55" x="782" y="112" width="10" height="10" rx="2" fill="#0e4429">
+        <title>2026-09-02: 1 contribuições</title>
       </rect>
   <rect width="859" height="179" x="0.5" y="0.5" class="border" />
 </svg>

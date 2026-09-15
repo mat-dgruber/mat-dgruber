@@ -3,7 +3,7 @@ import os
 import sys
 from datetime import datetime
 
-PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353", "#69f0a0"]
+PALETTE = ["#101317", "#153438", "#1E4E54", "#2E6B72", "#3FA2AD", "#E8913C"]
 MONTH_NAMES_PT = [
     "Jan",
     "Fev",
@@ -105,13 +105,13 @@ def render_heatmap_svg(
         "      from { opacity: 0; transform: scale(0.3); }",
         "      to { opacity: 1; transform: scale(1); }",
         "    }",
-        "    .bg { fill: #0d1117; rx: 8px; }",
-        "    .border { fill: none; stroke: #30363d; stroke-width: 1px; rx: 8px; }",
-        "    .header { fill: #161b22; }",
-        '    .header-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 12px; font-weight: 600; fill: #8b949e; text-anchor: middle; }',
-        '    .stat-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 12px; font-weight: 600; fill: #c9d1d9; }',
-        '    .label-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 9px; fill: #8b949e; }',
-        '    .legend-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 10px; fill: #8b949e; }',
+        "    .bg { fill: #0A0C0E; rx: 8px; }",
+        "    .border { fill: none; stroke: #232A31; stroke-width: 1px; rx: 8px; }",
+        "    .header { fill: #101317; }",
+        '    .header-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 12px; font-weight: 600; fill: #9EA5A8; text-anchor: middle; }',
+        '    .stat-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 12px; font-weight: 600; fill: #EDE7DC; }',
+        '    .label-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 9px; fill: #9EA5A8; }',
+        '    .legend-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 10px; fill: #9EA5A8; }',
         "    .day-box { opacity: 0; animation: boxFade 0.3s ease-out forwards; transform-box: fill-box; transform-origin: center; }",
     ]
 

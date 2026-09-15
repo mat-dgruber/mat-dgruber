@@ -31,13 +31,13 @@ def generate_info_card_svg(output_path: str = "info-card.svg") -> str:
         '      from { opacity: 0; transform: translateY(3px); }',
         '      to { opacity: 1; transform: translateY(0); }',
         '    }',
-        '    .bg { fill: #0d1117; rx: 8px; }',
-        '    .border { fill: none; stroke: #30363d; stroke-width: 1px; rx: 8px; }',
-        '    .header { fill: #161b22; }',
-        '    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 12px; font-weight: 600; fill: #8b949e; text-anchor: middle; }',
-        '    .key { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 12px; font-weight: 600; fill: #58a6ff; }',
-        '    .val { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace, "Apple Color Emoji", "Segoe UI Emoji"; font-size: 12px; fill: #c9d1d9; }',
-        '    .quote-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 11px; font-style: italic; fill: #8b949e; text-anchor: middle; }',
+        '    .bg { fill: #0A0C0E; rx: 8px; }',
+        '    .border { fill: none; stroke: #232A31; stroke-width: 1px; rx: 8px; }',
+        '    .header { fill: #101317; }',
+        '    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 12px; font-weight: 600; fill: #9EA5A8; text-anchor: middle; }',
+        '    .key { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 12px; font-weight: 600; fill: #3FA2AD; }',
+        '    .val { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace, "Apple Color Emoji", "Segoe UI Emoji"; font-size: 12px; fill: #EDE7DC; }',
+        '    .quote-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 11px; font-style: italic; fill: #E8913C; text-anchor: middle; }',
     ]
 
     svg_parts.extend([
@@ -69,7 +69,7 @@ def generate_info_card_svg(output_path: str = "info-card.svg") -> str:
 
     # Separator Line
     line_y = current_y - 8
-    svg_parts.append(f'    <line x1="0" y1="{line_y}" x2="442" y2="{line_y}" stroke="#30363d" stroke-width="1" />')
+    svg_parts.append(f'    <line x1="0" y1="{line_y}" x2="442" y2="{line_y}" stroke="#232A31" stroke-width="1" />')
     current_y += 14
 
     for k, v in bottom_fields:

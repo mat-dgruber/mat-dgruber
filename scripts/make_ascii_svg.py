@@ -52,8 +52,8 @@ def generate_ascii_svg(lines: list[str], output_path: str, svg_width: int = 370)
     svg_parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {svg_width} {svg_height}" width="{svg_width}" height="{svg_height}">',
         '  <style>',
-        f'    .ascii-text {{ font-family: "Courier New", Courier, monospace; font-size: {font_size:.2f}px; fill: #38bdf8; white-space: pre; }}',
-        '    .bg { fill: #0d1117; rx: 8px; }',
+        f'    .ascii-text {{ font-family: "Courier New", Courier, monospace; font-size: {font_size:.2f}px; fill: #3FA2AD; white-space: pre; }}',
+        '    .bg { fill: #0A0C0E; rx: 8px; }',
         '  </style>',
         '  <rect width="100%" height="100%" class="bg" />',
         f'  <g transform="translate({padding_x}, {padding_y})">'

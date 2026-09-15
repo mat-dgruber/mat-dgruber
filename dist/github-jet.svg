@@ -1,5 +1,5 @@
 <svg viewBox="0 0 513 170" xmlns="http://www.w3.org/2000/svg">
-<rect x="0" y="0" width="513" height="170" fill="#0d1117"/>
+<rect x="0" y="0" width="513" height="170" fill="#0A0C0E"/>
 <circle cx="8" cy="20" r="1.1" fill="#8b949e"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" repeatCount="indefinite"/></circle>
 <circle cx="8" cy="60" r="1.1" fill="#8b949e"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" repeatCount="indefinite"/></circle>
 <circle cx="8" cy="100" r="1.1" fill="#8b949e"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></circle>

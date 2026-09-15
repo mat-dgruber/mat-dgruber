@@ -30,9 +30,9 @@ const JET_X_START = 35;
 const JET_X_END = 478;
 const LOOP_DUR = 20; // seconds, one full there-and-back pass
 const MAX_TARGETS = 12; // how many "busiest" days the jet fires on
-const FLASH_COLOR = "#39d353";
-const BULLET_COLOR = "#7ee787";
-const BLAST_COLOR = "#56d364";
+const FLASH_COLOR = "#3FA2AD";
+const BULLET_COLOR = "#E8913C";
+const BLAST_COLOR = "#52B7C3";
 const PAD_Y = 128; // where bullets launch from (just under the grid)
 
 if (!USERNAME) {

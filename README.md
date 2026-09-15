@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Matheus%20Diniz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FA2AD&height=200&section=header&text=Matheus%20Diniz&fontSize=60&fontColor=EDE7DC&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
   
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Engenheiro+de+Software+Pleno;P%C3%B3s-Graduado+em+Engenharia+de+IA+Aplicada;Desenvolvedor+Full+Stack;Criador+do+Harpia+%26+Contribuidor+OpenClaude" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FA2AD&center=true&vcenter=true&width=600&lines=Engenheiro+de+Software+Pleno;P%C3%B3s-Graduado+em+Engenharia+de+IA+Aplicada;Desenvolvedor+Full+Stack;Criador+do+Harpia+%26+Contribuidor+OpenClaude" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o-ADS%20%7C%20P%C3%B3s%20IA%20Aplicada-0070F3?style=for-the-badge&logo=academicons&logoColor=white" alt="Formação Badge"></a>
-    <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Tatu%C3%AD%2C%20SP%20--%20Brasil-0072F5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização Badge"></a>
+    <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o-ADS%20%7C%20P%C3%B3s%20IA%20Aplicada-3FA2AD?style=for-the-badge&logo=academicons&logoColor=EDE7DC" alt="Formação Badge"></a>
+    <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Tatu%C3%AD%2C%20SP%20--%20Brasil-2E6B72?style=for-the-badge&logo=googlemaps&logoColor=EDE7DC" alt="Localização Badge"></a>
   </p>
 
   <p align="center">
-    <a href="https://monportfolio-dgruber.web.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Online-0F62FE?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio"></a>
-    <a href="mailto:matheus.gruber123@gmail.com"><img src="https://img.shields.io/badge/E--mail-Entre%20em%20Contato-003366?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-    <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/GitHub-Seguir-1E40AF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://monportfolio-dgruber.web.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Online-E8913C?style=for-the-badge&logo=firefox&logoColor=0A0C0E" alt="Portfólio"></a>
+    <a href="mailto:matheus.gruber123@gmail.com"><img src="https://img.shields.io/badge/E--mail-Entre%20em%20Contato-101317?style=for-the-badge&logo=gmail&logoColor=EDE7DC" alt="E-mail"></a>
+    <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/GitHub-Seguir-101317?style=for-the-badge&logo=github&logoColor=EDE7DC" alt="GitHub"></a>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mat-dgruber&color=0284c7&style=flat-square&label=VISUALIZACOES+DO+PERFIL" alt="Visualizações do Perfil" />
-    <img src="https://img.shields.io/github/followers/mat-dgruber?style=flat-square&color=0366d6&label=SEGUIDORES" alt="Seguidores" />
-    <img src="https://img.shields.io/github/stars/mat-dgruber?style=flat-square&color=1d4ed8&label=TOTAL+DE+ESTRELAS" alt="Estrelas" />
+    <img src="https://komarev.com/ghpvc/?username=mat-dgruber&color=3FA2AD&style=flat-square&label=VISUALIZACOES+DO+PERFIL" alt="Visualizações do Perfil" />
+    <img src="https://img.shields.io/github/followers/mat-dgruber?style=flat-square&color=2E6B72&label=SEGUIDORES" alt="Seguidores" />
+    <img src="https://img.shields.io/github/stars/mat-dgruber?style=flat-square&color=E8913C&label=TOTAL+DE+ESTRELAS" alt="Estrelas" />
   </p>
 
   <!-- <h3><code>matheus@github ~ $ neofetch --user mat-dgruber</code></h3> -->
@@ -258,8 +258,8 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/P%C3%B3s--Gradua%C3%A7%C3%A3o-Engenharia%20de%20IA%20Aplicada-0070F3?style=for-the-badge&logo=academia&logoColor=white" alt="Pós IA"/>
-  <img src="https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-ADS%20Cruzeiro%20do%20Sul-0072F5?style=for-the-badge&logo=education&logoColor=white" alt="Graduação ADS"/>
+  <img src="https://img.shields.io/badge/P%C3%B3s--Gradua%C3%A7%C3%A3o-Engenharia%20de%20IA%20Aplicada-3FA2AD?style=for-the-badge&logo=academia&logoColor=EDE7DC" alt="Pós IA"/>
+  <img src="https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-ADS%20Cruzeiro%20do%20Sul-2E6B72?style=for-the-badge&logo=education&logoColor=EDE7DC" alt="Graduação ADS"/>
 </div>
 
 ---
@@ -267,7 +267,7 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
 ## 📊 Métricas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mat-dgruber&theme=tokyonight&hide_border=true" width="100%" alt="Sequência de Contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mat-dgruber&background=0A0C0E&border=232A31&stroke=2E6B72&ring=E8913C&fire=E8913C&currStreakNum=EDE7DC&sideNums=EDE7DC&currStreakLabel=3FA2AD&sideLabels=9EA5A8&dates=6C7378&hide_border=true" width="100%" alt="Sequência de Contribuições" />
 </div>
 
 ---
@@ -275,7 +275,7 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
 ## 📈 Gráfico de Contribuição
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mat-dgruber&theme=react-dark&hide_border=true&area=true&color=38bdf8&line=0070f3" width="100%" alt="Gráfico de Atividades" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mat-dgruber&bg_color=0A0C0E&color=3FA2AD&line=E8913C&point=EDE7DC&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
 </div>
 
 ---
@@ -300,9 +300,9 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
 ## 📬 Vamos nos Conectar
 
 <div align="center">
-  <a href="mailto:matheus.gruber123@gmail.com"><img src="https://img.shields.io/badge/Gmail-0070F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/GitHub-1E40AF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://monportfolio-dgruber.web.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F62FE?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio"/></a>
+  <a href="mailto:matheus.gruber123@gmail.com"><img src="https://img.shields.io/badge/Gmail-Entre%20em%20Contato-101317?style=for-the-badge&logo=gmail&logoColor=EDE7DC" alt="Gmail"/></a>
+  <a href="https://github.com/mat-dgruber"><img src="https://img.shields.io/badge/GitHub-Seguir-101317?style=for-the-badge&logo=github&logoColor=EDE7DC" alt="GitHub"/></a>
+  <a href="https://monportfolio-dgruber.web.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar%20Online-E8913C?style=for-the-badge&logo=firefox&logoColor=0A0C0E" alt="Portfólio"/></a>
 </div>
 
 ---
@@ -310,5 +310,5 @@ Sou **Engenheiro de Software Pleno** residente em **Tatuí, SP**, integrando a e
 <div align="center">
   <sub>"Elegância em engenharia não é quando não há mais nada a acrescentar, mas quando não há mais nada a retirar."</sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366d6&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3FA2AD&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>

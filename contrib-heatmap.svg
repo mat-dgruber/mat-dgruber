@@ -82,7 +82,7 @@
   <!-- Header Title -->
   <text x="430" y="20" class="header-title">matheus@github ~ ./contributions.sh --year 2025-2026</text>
   <!-- Stat Text -->
-  <text x="24" y="48" class="stat-text">5,958 contribuições no último ano</text>
+  <text x="24" y="48" class="stat-text">5,985 contribuições no último ano</text>
   <!-- Legend -->
   <g transform="translate(680, 38)">
     <text x="0" y="9" class="legend-text">Menos</text>
@@ -515,7 +515,7 @@
       <rect class="day-box d-19" x="320" y="70" width="10" height="10" rx="2" fill="#153438">
         <title>2026-03-15: 5 contribuições</title>
       </rect>
-      <rect class="day-box d-20" x="320" y="84" width="10" height="10" rx="2" fill="#1E4E54">
+      <rect class="day-box d-20" x="320" y="84" width="10" height="10" rx="2" fill="#153438">
         <title>2026-03-16: 34 contribuições</title>
       </rect>
       <rect class="day-box d-21" x="320" y="98" width="10" height="10" rx="2" fill="#1E4E54">
@@ -668,7 +668,7 @@
       <rect class="day-box d-28" x="418" y="98" width="10" height="10" rx="2" fill="#1E4E54">
         <title>2026-05-05: 58 contribuições</title>
       </rect>
-      <rect class="day-box d-29" x="418" y="112" width="10" height="10" rx="2" fill="#1E4E54">
+      <rect class="day-box d-29" x="418" y="112" width="10" height="10" rx="2" fill="#153438">
         <title>2026-05-06: 34 contribuições</title>
       </rect>
       <rect class="day-box d-30" x="418" y="126" width="10" height="10" rx="2" fill="#153438">
@@ -689,7 +689,7 @@
       <rect class="day-box d-29" x="432" y="98" width="10" height="10" rx="2" fill="#153438">
         <title>2026-05-12: 13 contribuições</title>
       </rect>
-      <rect class="day-box d-30" x="432" y="112" width="10" height="10" rx="2" fill="#1E4E54">
+      <rect class="day-box d-30" x="432" y="112" width="10" height="10" rx="2" fill="#153438">
         <title>2026-05-13: 34 contribuições</title>
       </rect>
       <rect class="day-box d-31" x="432" y="126" width="10" height="10" rx="2" fill="#153438">
@@ -1010,7 +1010,7 @@
       <rect class="day-box d-46" x="642" y="126" width="10" height="10" rx="2" fill="#3FA2AD">
         <title>2026-08-27: 107 contribuições</title>
       </rect>
-      <rect class="day-box d-47" x="642" y="140" width="10" height="10" rx="2" fill="#2E6B72">
+      <rect class="day-box d-47" x="642" y="140" width="10" height="10" rx="2" fill="#1E4E54">
         <title>2026-08-28: 68 contribuições</title>
       </rect>
       <rect class="day-box d-48" x="642" y="154" width="10" height="10" rx="2" fill="#153438">
@@ -1047,7 +1047,7 @@
         <title>2026-09-08: 63 contribuições</title>
       </rect>
       <rect class="day-box d-47" x="670" y="112" width="10" height="10" rx="2" fill="#3FA2AD">
-        <title>2026-09-09: 132 contribuições</title>
+        <title>2026-09-09: 137 contribuições</title>
       </rect>
       <rect class="day-box d-48" x="670" y="126" width="10" height="10" rx="2" fill="#1E4E54">
         <title>2026-09-10: 42 contribuições</title>
@@ -1172,7 +1172,7 @@
       <rect class="day-box d-52" x="754" y="98" width="10" height="10" rx="2" fill="#1E4E54">
         <title>2026-10-20: 49 contribuições</title>
       </rect>
-      <rect class="day-box d-53" x="754" y="112" width="10" height="10" rx="2" fill="#1E4E54">
+      <rect class="day-box d-53" x="754" y="112" width="10" height="10" rx="2" fill="#153438">
         <title>2026-10-21: 34 contribuições</title>
       </rect>
       <rect class="day-box d-54" x="754" y="126" width="10" height="10" rx="2" fill="#153438">
@@ -1212,7 +1212,10 @@
         <title>2026-11-02: 2 contribuições</title>
       </rect>
       <rect class="day-box d-54" x="782" y="98" width="10" height="10" rx="2" fill="#1E4E54">
-        <title>2026-11-03: 34 contribuições</title>
+        <title>2026-11-03: 55 contribuições</title>
+      </rect>
+      <rect class="day-box d-55" x="782" y="112" width="10" height="10" rx="2" fill="#153438">
+        <title>2026-11-04: 1 contribuições</title>
       </rect>
   <rect width="859" height="179" x="0.5" y="0.5" class="border" />
 </svg>
